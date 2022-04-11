@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34995075109",
+    "project_id": "daftartemann",
+    "storage_bucket": "daftartemann.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34995075109:android:6c9c92a2936fd9b94627cc",
+        "android_client_info": {
+          "package_name": "com.example.daftartemann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34995075109-b99tf6cmc2jcferok7ibe8b16d14rad4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTSQ-A-YucCtaRyc57xid5GeGuLxGGro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34995075109-b99tf6cmc2jcferok7ibe8b16d14rad4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
